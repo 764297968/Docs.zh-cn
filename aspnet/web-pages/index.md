@@ -25,7 +25,7 @@ ms.locfileid: "48252499"
 
     - [入门](overview/getting-started/index.md)
 
-        - [在 Visual Studio 中对 ASP.NET 网页进程编程](overview/getting-started/program-asp-net-web-pages-in-visual-studio.md)
+        - [在 Visual Studio 中对 ASP.NET 网页进行编程](overview/getting-started/program-asp-net-web-pages-in-visual-studio.md)
         - [ASP.NET Web 编程 Razor 语法简介](overview/getting-started/introducing-razor-syntax-c.md)
         - [ASP.NET 网页 (Visual Basic)](overview/getting-started/introducing-razor-syntax-vb.md)
         - [ASP.NET 网页 (Razor) 常见问题解答](overview/getting-started/aspnet-web-pages-razor-faq.md)
